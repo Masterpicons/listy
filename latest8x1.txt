@@ -1,4 +1,4 @@
 version: 2022-02-13
-https://github.com/Masterpicons/listy/raw/main/8x1.zip
+url: https://github.com/Masterpicons/listy/raw/main/8x1.zip
 creator:MP
-type:userbouquet 
+type:userbouquet
